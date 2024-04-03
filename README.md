@@ -1,7 +1,7 @@
 ## Bem vindo(a) ao meu perfil 
  <div>
    <a href="https://github.com/ealubs">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ealubs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ealubs&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ealubs&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
